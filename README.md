@@ -1,2 +1,2 @@
 # WebServiceClientSample
-Soap web service sample
+Soap web service sample that consumes SpringDara sample
